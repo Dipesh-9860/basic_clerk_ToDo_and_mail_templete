@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Daily Update",
+    "text": "Hello Team,\n\nHere is the daily update:\n- Task 1: Done\n- Task 2: In Progress\n\nRegards,\nDipesh"
+  },
+  {
+    "name": "Follow-up Mail",
+    "text": "Dear [Name],\n\nJust following up on the previous discussion regarding [Topic].\n\nThanks,\nDipesh"
+  }
+]

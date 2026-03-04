@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Daily Update",
+    "text": "Hello Team,\n\nHere is the daily update:\n- Task 1: Done\n- Task 2: In Progress\n\nRegards,\nDipesh"
+  },
+  {
+    "name": "Follow-up Mail",
+    "text": "Dear [Name],\n\nJust following up on the previous discussion regarding [Topic].\n\nThanks,\nDipesh"
+  },
+  {
+    "name": "megalist mail",
+    "text": "Attached I created preliminary Mega-list for * suppliers and Add ATB discontinuation criteria for * supplier and New ATB Mega list for * supplier.\n\n \n\nPlease extract necessary information by each buyer.\n"
+  },
+  {
+    "name": "Intec reply",
+    "text": "株式会社 いすゞインテック\n部品技術第二部　市場支援Ｇ　\n池本様、\n\nいつもお世話になっております。\n"
+  }
+]

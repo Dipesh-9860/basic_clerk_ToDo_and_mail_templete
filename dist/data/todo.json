@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "My first task",
+    "done": true
+  },
+  {
+    "id": 2,
+    "title": "Have Rest",
+    "done": true
+  },
+  {
+    "id": 3,
+    "title": "pay bills",
+    "done": false,
+    "due": "2025-10-05"
+  }
+]
